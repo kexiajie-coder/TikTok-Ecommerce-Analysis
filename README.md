@@ -42,5 +42,5 @@ To uncover how **video duration, caption keywords, and hashtag strategies** pred
 
 | Analysis | Key Metric / Outcome | Business Insight |
 | :--- | :--- | :--- |
-| **Duration Analysis** | **30-45s** peaked at **0.74%** CR | Conversion drops significantly after the 45s mark; 45s is the "Sweet Spot." |
+| **Duration Analysis** | **30-45s** peaked at **0.47%** CR | Conversion drops significantly after the 45s mark; 45s is the "Sweet Spot." |
 | **NLP Word Cloud** | Top Terms: **Gadget, Lamp, Phone** | Merchandising focus should stay on Home Tech and Mobile Accessories
